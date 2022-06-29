@@ -46,12 +46,36 @@ I will be glad to any comments and suggestions.😉<br>
 
 <table>
   <tr>
-    <th colspan="4">Projects<th>
+    <th colspan="4">
+      Projects
+    </th>
   </tr>
-
   <tr>
     <td rowspan="2" width="324">
       <b>Real Estate</b>
+    </td>
+    <td rowspan="2" width="78">
+      <a target="_blank" href="https://real-estate-alpha-eight.vercel.app/">
+        <img width="50" alt="online icon" src="https://i.ibb.co/vBLtH3g/eye.png" />
+      </a>
+    </td>
+    <td rowspan="2" width="78">
+      <a target="_blank" href="https://github.com/opyvovarova/real_estate">
+        <img width="50" alt="repository icon" src="https://i.ibb.co/mJ1Gf5Q/icon.png" />
+      </a>
+    </td>
+    <td width="fit-content">
+       Creatind a Userface using #chakraUI, React,Next.js, fetching data from unlimited sources using RapidAPI.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Realtor - an amazing Real Estate Application.With rental homes and for-sale properties, advanced property filtering, property details page with an image carousel, and much more, Realtor is the best Real Estate App
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2" width="324">
+      <b>Fitness App</b>
     </td>
     <td rowspan="2" width="78">
       <a target="_blank" href="#">
@@ -59,21 +83,83 @@ I will be glad to any comments and suggestions.😉<br>
       </a>
     </td>
     <td rowspan="2" width="78">
-       <a target="_blank" href="#">
+      <a target="_blank" href="https://github.com/opyvovarova/gym_exercises">
         <img width="50" alt="repository icon" src="https://i.ibb.co/mJ1Gf5Q/icon.png" />
-      </a>  
+      </a>
     </td>
     <td width="fit-content">
-      Creatind a Userface using #chakraUI, React,Next.js, fetching data from unlimited sources using RapidAPI.
+       Creatind a Userface using material, React.js, fetching data from unlimited sources using RapidAPI.
     </td>
-  </tr >
+  </tr>
   <tr>
     <td>
-      Realtor - an amazing Real Estate Application.With rental homes and for-sale properties, advanced property filtering, property details page with an image carousel, and much more, Realtor is the best Real Estate App
+      Fitness - with the functionality to choose exercise categories and specific muscle groups, browse more than one thousand exercises with practical examples, pagination, exercise details, pull related videos from youtube, display similar exercises, and much more, Golds Gym is the best React Fitness App
     </td>
-  
   </tr>
+  <tr>
+    <td rowspan="2" width="324">
+      <b>Pravoved - the legal services company website</b>
+    </td>
+    <td rowspan="2" width="78">
+      <a target="_blank" href="https://opyvovarova.github.io/pravoved/index.html">
+        <img width="50" alt="online icon" src="https://i.ibb.co/vBLtH3g/eye.png" />
+      </a>
+    </td>
+    <td rowspan="2" width="78">
+      <a target="_blank" href="https://github.com/opyvovarova/pravoved_wp">
+        <img width="50" alt="repository icon" src="https://i.ibb.co/mJ1Gf5Q/icon.png" />
+      </a>
+    </td>
+    <td>
+      JS, Gulp, Wordpress, Framework - Unyson, Html5, Scss, framework wordpress
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Thema wordpress - the legal services company website
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2" width="324">
+      <b>Yuliia Nazarenko -  business card website</b>
+    </td>
+    <td rowspan="2" width="78">
+      <a target="_blank" href="https://nazarenkotranslates.com.ua/">
+        <img width="50" alt="online icon" src="https://i.ibb.co/vBLtH3g/eye.png" />
+      </a>
+    </td>
+    <td rowspan="2" width="78">
+      <a target="_blank" href="https://github.com/opyvovarova/Juliia-theme-wp">
+        <img width="50" alt="repository icon" src="https://i.ibb.co/mJ1Gf5Q/icon.png" />
+      </a>
+    </td>
+    <td>
+      JS, Gulp, Wordpress, Framework - Unyson, Html5, Scss, framework wordpress
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Wordpress business card website
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" width="324">
+      <b>[Portfolio Project] "Digital Clock"</b>
+    </td>
+    <td rowspan="2" width="78">
+      <a target="_blank" href="https://opyvovarova.github.io/Digital_clock/index.html">
+        <img width="50" alt="online icon" src="https://i.ibb.co/vBLtH3g/eye.png" />
+      </a>
+    </td>
+    <td rowspan="2" width="78">
+      <a target="_blank" href="https://github.com/opyvovarova/opyvovarova.github.io/tree/main/Digital_clock">
+        <img width="50" alt="repository icon" src="https://i.ibb.co/mJ1Gf5Q/icon.png" />
+      </a>
+    </td>
+    <td>
+      HTML5, CSS3, JS, 
+    </td>
   </tr>
 </table>
-
 
