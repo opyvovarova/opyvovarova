@@ -78,7 +78,7 @@ I will be glad to any comments and suggestions.😉<br>
       <b>Fitness App</b>
     </td>
     <td rowspan="2" width="78">
-      <a target="_blank" href="#">
+      <a target="_blank" href="https://gym-exercises-theta.vercel.app">
         <img width="50" alt="online icon" src="https://i.ibb.co/vBLtH3g/eye.png" />
       </a>
     </td>
@@ -124,7 +124,7 @@ I will be glad to any comments and suggestions.😉<br>
       <b>Yuliia Nazarenko -  business card website</b>
     </td>
     <td rowspan="2" width="78">
-      <a target="_blank" href="https://nazarenkotranslates.com.ua/">
+      <a target="_blank" href="https://opyvovarova.github.io/Juliia-front/index.html">
         <img width="50" alt="online icon" src="https://i.ibb.co/vBLtH3g/eye.png" />
       </a>
     </td>
@@ -162,4 +162,5 @@ I will be glad to any comments and suggestions.😉<br>
     </td>
   </tr>
 </table>
+
 
