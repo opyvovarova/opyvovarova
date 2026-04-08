@@ -1,20 +1,23 @@
 # Hello everybody! 👋
 
-My name is Olga!<br>
-You have landed on the frontend developer page.<br>
-Here you can see my educational and commercial work and plans for the future.<br>
-I will be glad to any comments and suggestions.😉<br>
-<h3>Connected with me:</h3>
-<br>
-<br>
-<br>
-<a target="_blank" href="https://t.me/webola">
-    <img src="https://img.shields.io/badge/Telegram-1f1f1f?style=flat-square&logo=Telegram&labelColor=1f1f1f"/>
-</a>
+# 👋 Hi, I'm Olga!
 
-<a target="_blank" href="mailto:opyvovarova087@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-1f1f1f?style=flat-square&logo=Gmail&labelColor=1f1f1f"/>
-</a>
+💻 **PHP Backend Developer (Middle / Middle+)**
+
+Welcome to my GitHub profile.
+Here you can find my backend projects, commercial experience, and ongoing work.
+
+I specialize in building backend services using Laravel, working with APIs, queues, and scalable systems.
+
+---
+
+### 📫 Connect with me:
+
+* Telegram: https://t.me/webola
+* Email: [opyvovarova087@gmail.com](mailto:opyvovarova087@gmail.com)
+
+---
+
 <br>
 <br>
 <div>
