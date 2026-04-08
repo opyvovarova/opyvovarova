@@ -28,13 +28,11 @@ I specialize in building backend services using Laravel, working with APIs, queu
       <img src="https://img.shields.io/badge/MySQL-code-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/PostgreSQL-code-336791?style=flat-square&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/Redis-code-DC382D?style=flat-square&logo=redis&logoColor=white"/><br>
-    
-      <img src="https://img.shields.io/badge/Docker-tool-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Nginx-tool-009639?style=flat-square&logo=nginx&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Linux-tool-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Git-tool-F05032?style=flat-square&logo=git&logoColor=white"/>
+       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
     </div>
-  </div>
     <div>
         <img src="https://img.shields.io/badge/ESlint-tool-1924B1?style=flat-square&logo=ESlint&labelColor=black"/>
         <img src="https://img.shields.io/badge/Webpack-tool-1924B1?style=flat-square&logo=Webpack&labelColor=black"/>
