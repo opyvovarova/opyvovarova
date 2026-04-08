@@ -34,11 +34,9 @@ I specialize in building backend services using Laravel, working with APIs, queu
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
     </div>
     <div>
-        <img src="https://img.shields.io/badge/ESlint-tool-1924B1?style=flat-square&logo=ESlint&labelColor=black"/>
-        <img src="https://img.shields.io/badge/Webpack-tool-1924B1?style=flat-square&logo=Webpack&labelColor=black"/>
-        <img src="https://img.shields.io/badge/TravisCI-tool-1924B1?style=flat-square&logo=Travis-CI&labelColor=black"/>
-        <img src="https://img.shields.io/badge/Vercel-tool-1924B1?style=flat-square&logo=Vercel&labelColor=black"/>
-        <img src="https://img.shields.io/badge/Figma-tool-1924B1?style=flat-square&logo=Figma&labelColor=black"/>
+      <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Queues-FF6F00?style=flat-square"/>
+      <img src="https://img.shields.io/badge/PHPUnit-6C3483?style=flat-square"/>
     </div>
   </div>
 </div>
