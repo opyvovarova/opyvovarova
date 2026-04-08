@@ -1,5 +1,3 @@
-# Hello everybody! 👋
-
 # 👋 Hi, I'm Olga!
 
 💻 **PHP Backend Developer (Middle / Middle+)**
@@ -22,20 +20,20 @@ I specialize in building backend services using Laravel, working with APIs, queu
 <br>
 <div>
   <div>
-    <h3>Languages and Tools</h3>
-      <div>
-        <img src="https://img.shields.io/badge/HTML5-code-FF9200?style=flat-square&logo=HTML5&labelColor=black"/>
-        <img src="https://img.shields.io/badge/CSS3-code-FF9200?style=flat-square&logo=CSS3&labelColor=black"/>
-        <img src="https://img.shields.io/badge/BEM-code-FF9200?style=flat-square&labelColor=black"/>
-        <img src="https://img.shields.io/badge/Sass-code-FF9200?style=flat-square&logo=Sass&labelColor=black">
-        <img src="https://img.shields.io/badge/Javascript-code-FF9200?style=flat-square&logo=Javascript&labelColor=black"/>
-        <img src="https://img.shields.io/badge/React-code-FF9200?style=flat-square&logo=React&labelColor=black"><br>
-        <img src="https://img.shields.io/badge/Redux-code-FF9200?style=flat-square&logo=Redux&labelColor=black">
-        <img src="https://img.shields.io/badge/StyledComponents-code-FF9200?style=flat-square&logo=styled-components&labelColor=black">
-        <img src="https://img.shields.io/badge/Jest-code-FF9200?style=flat-square&logo=Jest&labelColor=black">
-        <img src="https://img.shields.io/badge/NodeJS-code-FF9200?style=flat-square&labelColor=black">
-      </div><br>
+   <h3>Backend Tech Stack</h3>
 
+    <div>
+      <img src="https://img.shields.io/badge/PHP-code-777BB4?style=flat-square&logo=php&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Laravel-code-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-code-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-code-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redis-code-DC382D?style=flat-square&logo=redis&logoColor=white"/><br>
+    
+      <img src="https://img.shields.io/badge/Docker-tool-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Nginx-tool-009639?style=flat-square&logo=nginx&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Linux-tool-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Git-tool-F05032?style=flat-square&logo=git&logoColor=white"/>
+    </div>
   </div>
     <div>
         <img src="https://img.shields.io/badge/ESlint-tool-1924B1?style=flat-square&logo=ESlint&labelColor=black"/>
