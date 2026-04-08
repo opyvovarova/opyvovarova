@@ -24,7 +24,7 @@ I specialize in building backend services using Laravel, working with APIs, queu
 
     <div>
       <img src="https://img.shields.io/badge/PHP-code-777BB4?style=flat-square&logo=php&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Laravel-code-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" width="50"/>
       <img src="https://img.shields.io/badge/MySQL-code-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/PostgreSQL-code-336791?style=flat-square&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/Redis-code-DC382D?style=flat-square&logo=redis&logoColor=white"/><br>
