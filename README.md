@@ -2,162 +2,145 @@
 
 💻 **PHP Backend Developer (Middle / Middle+)**
 
-Welcome to my GitHub profile.
-Here you can find my backend projects, commercial experience, and ongoing work.
+I am a backend developer specializing in **PHP and Laravel**.
 
-I specialize in building backend services using Laravel, working with APIs, queues, and scalable systems.
+I have commercial experience developing backend services, REST APIs, integrations with external services, telephony systems, call processing, background jobs and data processing.
 
----
-
-### 📫 Connect with me:
-
-* Telegram: https://t.me/webola
-* Email: [opyvovarova087@gmail.com](mailto:opyvovarova087@gmail.com)
+My main focus is backend development, business logic and integration of complex external systems.
 
 ---
 
-<br>
-<br>
+## 🛠 Backend Tech Stack
+
 <div>
-  <div>
-   <h3>Backend Tech Stack</h3>
-    <div>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-      <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="100" alt="Laravel Logo"/>
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg?short_path=ea0125e" width="50"/>
-      <img src="https://img.shields.io/badge/MySQL-code-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-code-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Redis-code-DC382D?style=flat-square&logo=redis&logoColor=white"/><br>
-       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-    </div>
-    <div>
-      <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Queues-FF6F00?style=flat-square"/>
-      <img src="https://img.shields.io/badge/PHPUnit-6C3483?style=flat-square"/>
-    </div>
-  </div>
+  <img src="https://img.shields.io/badge/PHP-8.3-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 </div>
 
-<table>
-  <tr>
-    <th colspan="4">
-      Projects
-    </th>
-  </tr>
-  <tr>
-    <td rowspan="2" width="324">
-      <b>Real Estate</b>
-    </td>
-    <td rowspan="2" width="78">
-      <a target="_blank" href="https://real-estate-alpha-eight.vercel.app/">
-        <img width="50" alt="online icon" src="https://i.ibb.co/vBLtH3g/eye.png" />
-      </a>
-    </td>
-    <td rowspan="2" width="78">
-      <a target="_blank" href="https://github.com/opyvovarova/real_estate">
-        <img width="50" alt="repository icon" src="https://i.ibb.co/mJ1Gf5Q/icon.png" />
-      </a>
-    </td>
-    <td width="fit-content">
-       Creatind a Userface using #chakraUI, React,Next.js, fetching data from unlimited sources using RapidAPI.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      Realtor - an amazing Real Estate Application.With rental homes and for-sale properties, advanced property filtering, property details page with an image carousel, and much more, Realtor is the best Real Estate App
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="2" width="324">
-      <b>Fitness App</b>
-    </td>
-    <td rowspan="2" width="78">
-      <a target="_blank" href="https://gym-exercises-theta.vercel.app">
-        <img width="50" alt="online icon" src="https://i.ibb.co/vBLtH3g/eye.png" />
-      </a>
-    </td>
-    <td rowspan="2" width="78">
-      <a target="_blank" href="https://github.com/opyvovarova/gym_exercises">
-        <img width="50" alt="repository icon" src="https://i.ibb.co/mJ1Gf5Q/icon.png" />
-      </a>
-    </td>
-    <td width="fit-content">
-       Creatind a Userface using material, React.js, fetching data from unlimited sources using RapidAPI.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      Fitness - with the functionality to choose exercise categories and specific muscle groups, browse more than one thousand exercises with practical examples, pagination, exercise details, pull related videos from youtube, display similar exercises, and much more, Golds Gym is the best React Fitness App
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="2" width="324">
-      <b>Pravoved - the legal services company website</b>
-    </td>
-    <td rowspan="2" width="78">
-      <a target="_blank" href="https://opyvovarova.github.io/pravoved/index.html">
-        <img width="50" alt="online icon" src="https://i.ibb.co/vBLtH3g/eye.png" />
-      </a>
-    </td>
-    <td rowspan="2" width="78">
-      <a target="_blank" href="https://github.com/opyvovarova/pravoved_wp">
-        <img width="50" alt="repository icon" src="https://i.ibb.co/mJ1Gf5Q/icon.png" />
-      </a>
-    </td>
-    <td>
-      JS, Gulp, Wordpress, Framework - Unyson, Html5, Scss, framework wordpress
-    </td>
-  </tr>
-  <tr>
-    <td>
-      Thema wordpress - the legal services company website
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="2" width="324">
-      <b>Yuliia Nazarenko -  business card website</b>
-    </td>
-    <td rowspan="2" width="78">
-      <a target="_blank" href="https://opyvovarova.github.io/Juliia-front/index.html">
-        <img width="50" alt="online icon" src="https://i.ibb.co/vBLtH3g/eye.png" />
-      </a>
-    </td>
-    <td rowspan="2" width="78">
-      <a target="_blank" href="https://github.com/opyvovarova/Juliia-theme-wp">
-        <img width="50" alt="repository icon" src="https://i.ibb.co/mJ1Gf5Q/icon.png" />
-      </a>
-    </td>
-    <td>
-      JS, Gulp, Wordpress, Framework - Unyson, Html5, Scss, framework wordpress
-    </td>
-  </tr>
-  <tr>
-    <td>
-      Wordpress business card website
-    </td>
-  </tr>
+<br>
 
-  <tr>
-    <td rowspan="2" width="324">
-      <b>[Portfolio Project] "Digital Clock"</b>
-    </td>
-    <td rowspan="2" width="78">
-      <a target="_blank" href="https://opyvovarova.github.io/Digital_clock/index.html">
-        <img width="50" alt="online icon" src="https://i.ibb.co/vBLtH3g/eye.png" />
-      </a>
-    </td>
-    <td rowspan="2" width="78">
-      <a target="_blank" href="https://github.com/opyvovarova/opyvovarova.github.io/tree/main/Digital_clock">
-        <img width="50" alt="repository icon" src="https://i.ibb.co/mJ1Gf5Q/icon.png" />
-      </a>
-    </td>
-    <td>
-      HTML5, CSS3, JS, 
-    </td>
-  </tr>
-</table>
+<div>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHPUnit-6C3483?style=flat-square&logo=php&logoColor=white"/>
+</div>
 
+---
 
+## 🔧 Backend Skills
+
+- REST API development
+- Laravel
+- PHP 8.x
+- Laravel Sanctum
+- Authentication & Authorization
+- Laravel Policies
+- Form Requests
+- DTO
+- Service Layer
+- API Resources
+- Route Model Binding
+- Eloquent ORM
+- MySQL / PostgreSQL
+- Redis
+- Laravel Queues
+- Background Jobs
+- External API integrations
+- Telephony integrations
+- Call processing
+- Audio processing
+- Speech-to-text integrations
+- FFmpeg
+- Large dataset processing
+- Report generation
+- Filtering, sorting and pagination
+- Database optimization
+- PHPUnit
+- Docker
+- Nginx
+- Git
+
+---
+
+## 📞 Commercial Experience
+
+I have commercial experience working with **telephony and call analytics systems**.
+
+My work included:
+
+- integration with telephony services
+- processing CDR/call records
+- call filtering and aggregation
+- audio file processing
+- working with WAV recordings
+- audio channel processing
+- FFmpeg
+- speech-to-text services
+- integration with external APIs
+- background processing using Laravel Queues
+- Redis
+- processing large datasets
+- asynchronous report generation
+- generating XLS/XLSX reports
+- working with long-running background jobs
+- database queries and optimization
+
+One of the practical challenges was processing large amounts of call data without blocking HTTP requests.
+
+For example, large reports were generated asynchronously using Laravel Jobs and Queues, processed in chunks and then assembled into downloadable files.
+
+---
+
+# 🚀 Featured Project
+
+## Call Analytics Platform
+
+**Full-stack call management and analytics application built with Laravel and Vue.js.**
+
+The project demonstrates how a backend service can collect, manage and analyze call records and provide them through a REST API and web interface.
+
+### Main functionality
+
+- User registration and authentication
+- Login / logout
+- Laravel Sanctum authentication
+- Protected API routes
+- Call management
+- CRUD operations
+- Authorization through Laravel Policies
+- Call statistics
+- Filtering
+- Sorting
+- Pagination
+- Call details
+- Dashboard
+- Vue.js frontend
+- REST API
+- Docker environment
+- PHPUnit feature tests
+
+### Backend Architecture
+
+```text
+HTTP Request
+      ↓
+Form Request
+      ↓
+Controller
+      ↓
+DTO
+      ↓
+Service
+      ↓
+Model
+      ↓
+Database
+      ↓
+API Resource
+      ↓
+JSON Response
