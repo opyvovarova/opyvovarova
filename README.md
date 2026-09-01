@@ -94,6 +94,37 @@ One of the practical challenges was processing large amounts of call data withou
 
 For example, large reports were generated asynchronously using Laravel Jobs and Queues, processed in chunks and then assembled into downloadable files.
 
+
+Worked with integrations for banking and financial services, including:
+
+- VTB API integration
+- Sovcombank API integration
+- processing financial data
+- working with external authentication and authorization mechanisms
+- integration with external banking APIs
+- financial application workflows
+- financial reports and data processing
+- validation and transformation of financial data
+
+### Telephony & Call Processing
+
+Worked with telephony systems and call analytics:
+
+- telephony integrations
+- CDR processing
+- call filtering and aggregation
+- audio processing
+- WAV files
+- FFmpeg
+- speech-to-text services
+- call transcription
+- Redis
+- Laravel Queues
+- background jobs
+- large dataset processing
+- asynchronous report generation
+- XLS/XLSX report generation
+- 
 ---
 
 # 🚀 Featured Project
